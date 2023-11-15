@@ -1,0 +1,14 @@
+C:\Users\1\OneDrive\Documentos\GitHub\Curso CSharp\teste\bin\Debug\net6.0\teste.exe
+C:\Users\1\OneDrive\Documentos\GitHub\Curso CSharp\teste\bin\Debug\net6.0\teste.deps.json
+C:\Users\1\OneDrive\Documentos\GitHub\Curso CSharp\teste\bin\Debug\net6.0\teste.runtimeconfig.json
+C:\Users\1\OneDrive\Documentos\GitHub\Curso CSharp\teste\bin\Debug\net6.0\teste.dll
+C:\Users\1\OneDrive\Documentos\GitHub\Curso CSharp\teste\bin\Debug\net6.0\teste.pdb
+C:\Users\1\OneDrive\Documentos\GitHub\Curso CSharp\teste\obj\Debug\net6.0\teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\OneDrive\Documentos\GitHub\Curso CSharp\teste\obj\Debug\net6.0\teste.AssemblyInfoInputs.cache
+C:\Users\1\OneDrive\Documentos\GitHub\Curso CSharp\teste\obj\Debug\net6.0\teste.AssemblyInfo.cs
+C:\Users\1\OneDrive\Documentos\GitHub\Curso CSharp\teste\obj\Debug\net6.0\teste.csproj.CoreCompileInputs.cache
+C:\Users\1\OneDrive\Documentos\GitHub\Curso CSharp\teste\obj\Debug\net6.0\teste.dll
+C:\Users\1\OneDrive\Documentos\GitHub\Curso CSharp\teste\obj\Debug\net6.0\refint\teste.dll
+C:\Users\1\OneDrive\Documentos\GitHub\Curso CSharp\teste\obj\Debug\net6.0\teste.pdb
+C:\Users\1\OneDrive\Documentos\GitHub\Curso CSharp\teste\obj\Debug\net6.0\teste.genruntimeconfig.cache
+C:\Users\1\OneDrive\Documentos\GitHub\Curso CSharp\teste\obj\Debug\net6.0\ref\teste.dll
